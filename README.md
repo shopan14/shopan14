@@ -1,16 +1,4 @@
-### Hi there 👋
+<p align="center"><a href="https://shopan14.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+### Hi, I am shopan14.👋
 
-<!--
-**shopan14/shopan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on turtle desing
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Shopan, from Bangladesh. I am begginer level programmer. I usually code and want to post them on github. I am also learing many stuffs. I have not contribution but I will contribute on more in future. 

@@ -15,4 +15,4 @@ Recently I have started coding. My goal is to learn more about programing and wa
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shopan14&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/[shopan14])
+![Profile views](https://gpvc.arturio.dev/shopan14)

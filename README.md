@@ -7,7 +7,7 @@ Recently I have started coding. My goal is to learn more about programing and wa
 - 🔭 I’m currently working on Turtle desing 
 - 🎯 Want to learn all things.🤣🤣
 - 🌱 I’m currently learning python 
-- 
+- ⚡ Fun fact: I am lazy in doing other staffs but not in programing 
 
 
 
